@@ -3,7 +3,7 @@ Open Source Audit Project - VITyarthi OSS Course
 # Open Source Audit Project
 
 ## Student Details
-- Name: Manashwi
+- Name: Manashwi Vivek Sharma
 - Roll Number: 24bey10042
 - Course: Open Source Software (NGMC)
 
