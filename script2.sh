@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
 
+STUDENT_NAME="Manashwi Vivek Sharma"
 PACKAGE="git"
 
 echo "Checking package: $PACKAGE"
