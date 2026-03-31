@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
 
+STUDENT_NAME="Manashwi Vivek Sharma"
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
 echo "Directory Audit Report"
