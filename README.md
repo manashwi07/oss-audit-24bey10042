@@ -79,6 +79,7 @@ chmod +x script3.sh
 chmod +x script4.sh
 chmod +x script5.sh
 
+### Step 2: Execute scripts
 ./script1.sh
 ./script2.sh
 ./script3.sh
